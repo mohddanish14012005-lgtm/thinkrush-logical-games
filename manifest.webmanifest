@@ -1,0 +1,9 @@
+{
+  "name":"ThinkRush Logical Games",
+  "short_name":"ThinkRush",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#050914",
+  "theme_color":"#07101f",
+  "description":"Free brain and logic games to sharpen your mind."
+}
